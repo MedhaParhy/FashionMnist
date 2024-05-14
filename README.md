@@ -3,3 +3,5 @@
 Practice with using Fashion Mnist dataset to create a classifier
 
 Tutorial: https://www.tensorflow.org/tutorials/keras/classification
+
+Test Accuracy of 88%.
